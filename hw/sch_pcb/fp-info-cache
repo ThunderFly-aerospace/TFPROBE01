@@ -1,0 +1,50 @@
+10785749457918
+Mlab_R
+SMD-0402
+
+
+0
+2
+2
+Mlab_R
+SMD-0603
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Mlab_R
+SMD-0805
+
+
+0
+2
+2
+Mlab_R
+SMD-1206
+
+
+0
+2
+2
+Mlab_R
+SMD-1210
+
+CMS SM
+0
+2
+2
+Mlab_R
+SMD-1812
+
+CMS SMD
+0
+2
+2
+Mlab_R
+SMD-2512
+Resistor SMD 2512, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 2512
+0
+2
+2
