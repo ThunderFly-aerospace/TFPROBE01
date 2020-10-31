@@ -1,0 +1,64 @@
+[
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0603", 
+        "Ref": "C1", 
+        "Tstamp": "ac907e1c-aaef-41d8-ab58-f926b0e3502f", 
+        "UST_ID": "5c70984812875079b91f8bf2", 
+        "Value": "100nF"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_1x03", 
+        "Ref": "J1", 
+        "Tstamp": "d81e7dca-ab0d-4e13-984a-1c5b00f3383c", 
+        "Value": "HEADER_1x03"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Mechanical:dira_3mm", 
+        "Ref": "M3", 
+        "Tstamp": "196227d8-be2a-4b6f-852b-6ff909ae9882", 
+        "Value": "HOLE"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Mechanical:dira_3mm", 
+        "Ref": "M4", 
+        "Tstamp": "3b547b03-2d6f-403a-a314-16fe37d96cd6", 
+        "Value": "HOLE"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0603", 
+        "Ref": "R1", 
+        "Tstamp": "9e12790b-cec9-4dd8-a3af-c20d5c11d549", 
+        "UST_ID": "5c70984512875079b91f8957", 
+        "Value": "180R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R2", 
+        "Tstamp": "dc0b4ba4-1c58-4194-aa69-1071feb9bfda", 
+        "Value": "-"
+    }, 
+    {
+        "Datasheet": "https://cz.mouser.com/datasheet/2/115/AH3572-1483253.pdf", 
+        "Footprint": "Package_TO_SOT_SMD:SOT-23", 
+        "Ref": "U1", 
+        "Tstamp": "a7f3953c-82c9-48f9-af66-14b131e92525", 
+        "UST_ID": "5f9d011812875025b39777ea", 
+        "Value": "AH3572"
+    }, 
+    {
+        "Datasheet": "https://www.vishay.com/docs/84285/vcnt2020.pdf", 
+        "Field4": "Vishay", 
+        "Field5": "Manufacturer Recommendation", 
+        "Footprint": "Mlab_IO:XDCR_VCNT2020", 
+        "Ref": "U2", 
+        "Tstamp": "08989b57-1670-408e-a8a9-fe966c7c308b", 
+        "UST_ID": "5f9d106a12875025b39777fa", 
+        "Value": "VCNT2020"
+    }
+]
