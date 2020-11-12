@@ -854,8 +854,8 @@
   (junction (at 146.05 109.22) (diameter 1.016) (color 0 0 0 0))
   (junction (at 156.21 111.76) (diameter 1.016) (color 0 0 0 0))
 
-  (no_connect (at 266.7 17.78))
   (no_connect (at 257.81 17.78))
+  (no_connect (at 266.7 17.78))
 
   (wire (pts (xy 71.12 96.52) (xy 71.12 97.79))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -1159,7 +1159,7 @@
     (property "Footprint" "Mlab_R:SMD-0603" (id 2) (at 147.0152 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 146.05 116.84 0)
+    (property "Datasheet" "~~" (id 3) (at 146.05 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "UST_ID" "5c70984812875079b91f8bf2" (id 4) (at 146.05 116.84 0)
