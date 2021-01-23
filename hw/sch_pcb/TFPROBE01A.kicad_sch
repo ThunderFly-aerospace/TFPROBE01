@@ -1,8 +1,14 @@
 (kicad_sch (version 20201015) (generator eeschema)
 
-  (page 1 1)
-
   (paper "A4")
+
+  (title_block
+    (title "TFPROBE01A")
+    (date "2021-01-23")
+    (company "ThunderFly s.r.o.")
+    (comment 1 "Omnipolar magnetic and \\n reflective optical probe")
+    (comment 3 "Sensor for \\n TFRPM measuring device")
+  )
 
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
