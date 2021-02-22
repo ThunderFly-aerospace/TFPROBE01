@@ -25,9 +25,10 @@ Optical sensor is sensitive for infrared reflectance of material (usually a rota
 TFPROBE01A is designed as Open-Hardware (GPL v3). All documentation is located in this repository.
 
 ### PCB
+
 <p float="left">
-<img src="/doc/img/TFGPS01A_top_big.png" width="45%" />
-<img src="/doc/img/TFGPS01A_bot_big.png" width="45%" />
+<img src="/doc/img/TFPROBE01A_top_big.png" width="45%" />
+<img src="/doc/img/TFPROBE01A_bot_big.png" width="45%" />
 </p>
 
 
