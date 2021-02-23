@@ -25,7 +25,7 @@ Optical sensor is sensitive for infrared reflectance of material (usually a rota
 ## Hardware
 TFPROBE01A is designed as Open-Hardware (GPL v3). All documentation is located in this repository.
 
-The TFPROBE01 is sold and shipped without soldered header, because its orientation may depend on the customer's use. One straight 3-pin header is included.
+The TFPROBE01 is sold and shipped without soldered header, because its orientation may depend on the customer's use. One straight and one right-angeled 3-pin header is included.
 
 ### PCB
 
