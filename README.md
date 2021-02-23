@@ -9,7 +9,8 @@ The sensor is designed for RPM measurement in combination with [TFRPM01 sensor b
 <img src="/doc/img/TFPROBE01A_sensors.jpg" width="45%" />
 </p>
 
-> This module (TFGPS01A) was developed by [ThunderFly s.r.o.](https://www.thunderfly.cz) and is published as OpenSource hardware with a [GPLv3](LICENSE) license. It is possible to buy on request. For a quote contact us by email info@thunderfly.cz.
+> This module (TFGPS01A) was developed by [ThunderFly s.r.o.](https://www.thunderfly.cz) and is published as OpenSource hardware with a [GPLv3](LICENSE) license. It is possible to buy on request. For a quote contact us by email info@thunderfly.cz. Or together with a [TFRPM01](https://github.com/ThunderFly-aerospace/TFRPM01) sensor at [Tindie store](https://www.tindie.com/products/thunderfly/tfrpm01-drone-rpm-tachometer-sensor/).
+
 
 ### Magnetic Sensing
 
@@ -23,6 +24,8 @@ Optical sensor is sensitive for infrared reflectance of material (usually a rota
 
 ## Hardware
 TFPROBE01A is designed as Open-Hardware (GPL v3). All documentation is located in this repository.
+
+The TFPROBE01 is sold and shipped without soldered header, because its orientation may depend on the customer's use. One straight 3-pin header is included.
 
 ### PCB
 
