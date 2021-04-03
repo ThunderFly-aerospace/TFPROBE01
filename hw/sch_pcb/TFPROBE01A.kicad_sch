@@ -1160,7 +1160,7 @@
     (property "Reference" "R1" (id 0) (at 72.8981 100.4506 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "180R" (id 1) (at 72.898 102.749 0)
+    (property "Value" "51R" (id 1) (at 72.898 102.749 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Mlab_R:SMD-0603" (id 2) (at 69.342 101.6 90)
@@ -1169,7 +1169,7 @@
     (property "Datasheet" "~" (id 3) (at 71.12 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "UST_ID" "5c70984512875079b91f8957" (id 4) (at 71.12 101.6 0)
+    (property "UST_ID" "5c70984512875079b91f8953" (id 4) (at 71.12 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bd141320-1d58-4a6d-8d8d-0d4934b49487))
@@ -1334,7 +1334,7 @@
       (reference "M4") (unit 1) (value "HOLE") (footprint "Mlab_Mechanical:dira_3mm")
     )
     (path "/9e12790b-cec9-4dd8-a3af-c20d5c11d549"
-      (reference "R1") (unit 1) (value "180R") (footprint "Mlab_R:SMD-0603")
+      (reference "R1") (unit 1) (value "51R") (footprint "Mlab_R:SMD-0603")
     )
     (path "/dc0b4ba4-1c58-4194-aa69-1071feb9bfda"
       (reference "R2") (unit 1) (value "4k7") (footprint "Mlab_R:SMD-0805")
