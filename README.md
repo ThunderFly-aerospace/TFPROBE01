@@ -36,8 +36,12 @@ The TFPROBE01 is sold and shipped without soldered header, because its orientati
 <img src="/doc/img/TFPROBE01A_bot_big.png" width="48%" />
 </p>
 
+#### PCB dimensions
 
-### Eletronic schema
+![TFPROBE01A PCB dimensions](doc/img/TFPROBE01A_dimensions.png)
+
+
+### Electronic schema
 
 Full schema is avialible in [PDF](hw/cam/docs/TFPROBE01A_schematic.pdf)
 
