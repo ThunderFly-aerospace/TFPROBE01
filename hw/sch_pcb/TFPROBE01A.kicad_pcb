@@ -1,4 +1,4 @@
-(kicad_pcb (version 20210722) (generator pcbnew)
+(kicad_pcb (version 20211014) (generator pcbnew)
 
   (general
     (thickness 1.6)
@@ -51,7 +51,7 @@
       (copper_finish "None")
       (dielectric_constraints no)
     )
-    (pad_to_mask_clearance 0)
+    (pad_to_mask_clearance 0.2)
     (pcbplotparams
       (layerselection 0x00012e0_ffffffff)
       (disableapertmacros false)
@@ -432,7 +432,7 @@
   (dimension (type aligned) (layer "Cmts.User") (tstamp 8540aa54-927f-4e4a-8fe1-74f49f36dbf7)
     (pts (xy 12.06 -6.95) (xy 14 -6.94))
     (height -5.379103)
-    (gr_text "1,94 mm" (at 13.063655 -13.474017 359.7046635) (layer "Cmts.User") (tstamp ec41b652-de2a-46d7-8417-8a5e8299913b)
+    (gr_text "1,94 mm" (at 13.063655 -13.474017 359.7046635) (layer "Cmts.User") (tstamp 8540aa54-927f-4e4a-8fe1-74f49f36dbf7)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 2))
@@ -441,7 +441,7 @@
   (dimension (type aligned) (layer "Cmts.User") (tstamp b9388730-c1c6-4cec-9af0-ad67c97b2252)
     (pts (xy 12.06 -6.95) (xy 12.01 -10))
     (height 2.976977)
-    (gr_text "3,05 mm" (at 16.161423 -8.542646 -89.06080905) (layer "Cmts.User") (tstamp fa88470b-4f22-498c-8737-315ccb3e9da4)
+    (gr_text "3,05 mm" (at 16.161423 -8.542646 -89.06080905) (layer "Cmts.User") (tstamp b9388730-c1c6-4cec-9af0-ad67c97b2252)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 2))
