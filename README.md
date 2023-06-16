@@ -47,6 +47,6 @@ The TFPROBE01 is sold and shipped without soldered header, because its orientati
 
 ### Electronic schema
 
-Full schema is avialible in [PDF](hw/cam/docs/TFPROBE01A_schematic.pdf)
+Full schema is avialible in [PDF](/doc/gen/TFPROBE01A-schematic.pdf)
 
-![schema](hw/cam/docs/TFPROBE01A_schematic.svg)
+[![schema](/doc/gen/TFPROBE01A-schematic.svg)](/doc/gen/TFPROBE01A-schematic.pdf)
