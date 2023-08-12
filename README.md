@@ -42,9 +42,9 @@ The TFPROBE01 is sold and shipped without a soldered header, because its orienta
 ![TFPROBE01A PCB dimensions](doc/img/TFPROBE01A_dimensions.png)
 
 
-##### Optical probe position
+##### Optical and magnetic probe positions on PCB
 
-![TFPROBE01A optical probe position](doc/img/optical_sensor_position.png)
+![TFPROBE01A optical probe position](doc/img/TFPROBE01_sensors_positon.png)
 
 ### Electronic schema
 
