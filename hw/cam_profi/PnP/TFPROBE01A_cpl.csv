@@ -1,5 +1,0 @@
-Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-"C1","100nF","SMD-0603",6.9850,3.0225,-90.0000,bottom
-"R1","180R","SMD-0603",8.8900,5.0545,-90.0000,bottom
-"R2","-","SMD-0805",6.8580,6.8580,90.0000,bottom
-"U1","AH3572","SOT-23",12.0000,3.0480,180.0000,bottom
