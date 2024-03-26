@@ -9,12 +9,11 @@ The sensor is designed for RPM measurement with [TFRPM01 sensor board](https://g
 <img src="/doc/img/TFPROBE01A_sensors.jpg" width="48%" />
 </p>
 
-> This module (TFGPS01A) was developed by [ThunderFly s.r.o.](https://www.thunderfly.cz) and is published as OpenSource hardware with a [GPLv3](LICENSE) license. It is possible to buy on request. For a quote contact us by email at info@thunderfly.cz. Or together with a [TFRPM01](https://github.com/ThunderFly-aerospace/TFRPM01) sensor at [Tindie store](https://www.tindie.com/products/thunderfly/tfrpm01-drone-rpm-tachometer-sensor/).
-
+> This device was developed by [ThunderFly s.r.o.](https://www.thunderfly.cz) and is published as OpenSource hardware with a [GPLv3](LICENSE) license. It is commercially available, for a quote contact us by email at info@thunderfly.cz. Or buy it directly together with a [TFRPM01](https://docs.thunderfly.cz/avionics/TFRPM01/) sensor at [Tindie store](https://www.tindie.com/products/thunderfly/tfrpm01-drone-rpm-tachometer-sensor/).
 
 ### Magnetic Sensing
 
-The magnetic Hall-effect sensor mounted on the probe board is able to sense both directions of the magnetic field. The strength of the magnetic field is a decisive parameter for the probe's correct function. The magnetic flux is expected to be perpendicular to the sensor PCB surface. The detailed requirements of magnetic flux density are described in [AH3572 datasheet page 4](/doc/datasheets/AH3572-1483253.pdf).
+The magnetic Hall-effect sensor mounted on the probe board can sense both directions of the magnetic field. The strength of the magnetic field is a decisive parameter for the probe's correct function. The magnetic flux is expected to be perpendicular to the sensor PCB surface. The detailed requirements of magnetic flux density are described in [AH3572 datasheet page 4](/doc/datasheets/AH3572-1483253.pdf).
 
 In magnetic sensing, it is recommended to cover the probe in a black shrinking tube.  The covering blocks function of a reflective sensor.
 
